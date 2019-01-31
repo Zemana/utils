@@ -19,7 +19,7 @@ then import in your code to use that module.
 ```python
 import siphash
 
-hash = siphash.siphash(buf, len(buf))
+hash = siphash.siphash(buf, key)
 ```
 
 ## Contributing
