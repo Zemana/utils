@@ -3,7 +3,8 @@
 # Siphash python module
 > Simple siphash python module both for python and C
 
-A simple, easy-to-use script to calculate a special hash function which is known as siphash(https://en.wikipedia.org/wiki/SipHash).
+A simple, easy-to-use script to calculate a special hash function which is known as siphash.
+https://en.wikipedia.org/wiki/SipHash
 
 ## Getting started
 
